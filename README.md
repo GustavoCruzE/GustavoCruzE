@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo Cruz!
 
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Gosto de transformar ideias em soluções reais através da programação — desde o front-end até o back-end.
+Sou um estudante de análise e desenvolvimento de sistemas. Gosto de transformar ideias em soluções reais através da programação — desde o front-end até o back-end.
 
 ---
 
